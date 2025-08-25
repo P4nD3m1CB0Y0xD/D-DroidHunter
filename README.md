@@ -3,6 +3,8 @@ DroidHunter is an automated pipeline designed to streamline the analysis, detect
 
 ## Run
 ```
+pip install -r requirements.txt
+
 chmod +x run_droidhunter.sh
 ./run_droidhunter.sh -v <API_KEY>
 ```
